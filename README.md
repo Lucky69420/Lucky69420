@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Lucky69420
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any game moding or making
-- 📫 How to reach me Discord: 『T』『Ä』『H』『E』#7138
